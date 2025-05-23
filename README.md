@@ -108,5 +108,3 @@ To support precision farming by analyzing satellite imagery, calculating vegetat
 - `numpy`
 - Shapefiles / GeoTIFF
 ```
-
-Let me know if you want to add screenshots, usage examples, or a `requirements.txt` section.
